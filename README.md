@@ -1,6 +1,6 @@
 # Time-Series-Forecasting
 
-Forecasting Alcohol slaes using different Time series models including Seasonal Autoregressive Moving Averages and deep learning models like LSTMS.
+Forecasting Alcohol slaes using different Time series models including Seasonal Autoregressive Moving Averages and deep learning models like LSTMs.
 
 **Contents of the notebook:**
 
